@@ -1,0 +1,3335 @@
+[
+  {
+    "variantId": "0001_bulbasaur_base",
+    "pokedexNumber": 1,
+    "speciesName": "Bulbasaur",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "bulbasaur"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0001_bulbasaur_party_hat",
+    "pokedexNumber": 1,
+    "speciesName": "Bulbasaur",
+    "formOrEventName": "Party Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "bulbasaur",
+      "party hat"
+    ],
+    "spriteSignatureHex": "FF3B30_PARTY"
+  },
+  {
+    "variantId": "0001_bulbasaur_pikachu_visor",
+    "pokedexNumber": 1,
+    "speciesName": "Bulbasaur",
+    "formOrEventName": "Pikachu Visor",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "bulbasaur",
+      "pikachu visor",
+      "visor"
+    ],
+    "spriteSignatureHex": "FFD60A_VISOR"
+  },
+  {
+    "variantId": "0002_ivysaur_base",
+    "pokedexNumber": 2,
+    "speciesName": "Ivysaur",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "ivysaur"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0003_venusaur_base",
+    "pokedexNumber": 3,
+    "speciesName": "Venusaur",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "venusaur"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0003_venusaur_clone",
+    "pokedexNumber": 3,
+    "speciesName": "Venusaur",
+    "formOrEventName": "Clone",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "venusaur",
+      "clone"
+    ],
+    "spriteSignatureHex": "34C759_CLONE"
+  },
+  {
+    "variantId": "0004_charmander_base",
+    "pokedexNumber": 4,
+    "speciesName": "Charmander",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "charmander"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0004_charmander_cubone_skull_hat",
+    "pokedexNumber": 4,
+    "speciesName": "Charmander",
+    "formOrEventName": "Cubone Skull Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "charmander",
+      "cubone hat",
+      "skull"
+    ],
+    "spriteSignatureHex": "D1D1D6_SKULL"
+  },
+  {
+    "variantId": "0004_charmander_party_hat",
+    "pokedexNumber": 4,
+    "speciesName": "Charmander",
+    "formOrEventName": "Party Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "charmander",
+      "party hat"
+    ],
+    "spriteSignatureHex": "FF3B30_PARTY"
+  },
+  {
+    "variantId": "0004_charmander_pikachu_visor",
+    "pokedexNumber": 4,
+    "speciesName": "Charmander",
+    "formOrEventName": "Pikachu Visor",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "charmander",
+      "pikachu visor",
+      "visor"
+    ],
+    "spriteSignatureHex": "FFD60A_VISOR"
+  },
+  {
+    "variantId": "0005_charmeleon_base",
+    "pokedexNumber": 5,
+    "speciesName": "Charmeleon",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "charmeleon"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0006_charizard_base",
+    "pokedexNumber": 6,
+    "speciesName": "Charizard",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "charizard"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0006_charizard_clone",
+    "pokedexNumber": 6,
+    "speciesName": "Charizard",
+    "formOrEventName": "Clone",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "charizard",
+      "clone"
+    ],
+    "spriteSignatureHex": "FF9500_CLONE"
+  },
+  {
+    "variantId": "0007_squirtle_base",
+    "pokedexNumber": 7,
+    "speciesName": "Squirtle",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "squirtle"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0007_squirtle_party_hat",
+    "pokedexNumber": 7,
+    "speciesName": "Squirtle",
+    "formOrEventName": "Party Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "squirtle",
+      "party hat"
+    ],
+    "spriteSignatureHex": "FF3B30_PARTY"
+  },
+  {
+    "variantId": "0007_squirtle_pikachu_visor",
+    "pokedexNumber": 7,
+    "speciesName": "Squirtle",
+    "formOrEventName": "Pikachu Visor",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "squirtle",
+      "pikachu visor",
+      "visor"
+    ],
+    "spriteSignatureHex": "FFD60A_VISOR"
+  },
+  {
+    "variantId": "0007_squirtle_sunglasses",
+    "pokedexNumber": 7,
+    "speciesName": "Squirtle",
+    "formOrEventName": "Sunglasses",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "squirtle",
+      "sunglasses",
+      "aviator"
+    ],
+    "spriteSignatureHex": "1C1C1E_SHADES"
+  },
+  {
+    "variantId": "0008_wartortle_base",
+    "pokedexNumber": 8,
+    "speciesName": "Wartortle",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "wartortle"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0009_blastoise_base",
+    "pokedexNumber": 9,
+    "speciesName": "Blastoise",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "blastoise"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0009_blastoise_clone",
+    "pokedexNumber": 9,
+    "speciesName": "Blastoise",
+    "formOrEventName": "Clone",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "blastoise",
+      "clone"
+    ],
+    "spriteSignatureHex": "007AFF_CLONE"
+  },
+  {
+    "variantId": "0010_caterpie_base",
+    "pokedexNumber": 10,
+    "speciesName": "Caterpie",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "caterpie"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0011_metapod_base",
+    "pokedexNumber": 11,
+    "speciesName": "Metapod",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "metapod"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0012_butterfree_base",
+    "pokedexNumber": 12,
+    "speciesName": "Butterfree",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "butterfree"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0012_butterfree_fashion_bow",
+    "pokedexNumber": 12,
+    "speciesName": "Butterfree",
+    "formOrEventName": "Fashion Bow",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "butterfree",
+      "fashion",
+      "bow"
+    ],
+    "spriteSignatureHex": "FF2D55_BOW"
+  },
+  {
+    "variantId": "0013_weedle_base",
+    "pokedexNumber": 13,
+    "speciesName": "Weedle",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "weedle"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0014_kakuna_base",
+    "pokedexNumber": 14,
+    "speciesName": "Kakuna",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "kakuna"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0015_beedrill_base",
+    "pokedexNumber": 15,
+    "speciesName": "Beedrill",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "beedrill"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0016_pidgey_base",
+    "pokedexNumber": 16,
+    "speciesName": "Pidgey",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pidgey"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0017_pidgeotto_base",
+    "pokedexNumber": 17,
+    "speciesName": "Pidgeotto",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pidgeotto"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0018_pidgeot_base",
+    "pokedexNumber": 18,
+    "speciesName": "Pidgeot",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pidgeot"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0019_rattata_base",
+    "pokedexNumber": 19,
+    "speciesName": "Rattata",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "rattata"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0020_raticate_base",
+    "pokedexNumber": 20,
+    "speciesName": "Raticate",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "raticate"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0020_raticate_party_hat",
+    "pokedexNumber": 20,
+    "speciesName": "Raticate",
+    "formOrEventName": "Party Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "raticate",
+      "party hat"
+    ],
+    "spriteSignatureHex": "FF3B30_PARTY"
+  },
+  {
+    "variantId": "0021_spearow_base",
+    "pokedexNumber": 21,
+    "speciesName": "Spearow",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "spearow"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0022_fearow_base",
+    "pokedexNumber": 22,
+    "speciesName": "Fearow",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "fearow"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0023_ekans_base",
+    "pokedexNumber": 23,
+    "speciesName": "Ekans",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "ekans"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0024_arbok_base",
+    "pokedexNumber": 24,
+    "speciesName": "Arbok",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "arbok"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0025_pikachu_base",
+    "pokedexNumber": 25,
+    "speciesName": "Pikachu",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pikachu"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0025_pikachu_charizard_hat",
+    "pokedexNumber": 25,
+    "speciesName": "Pikachu",
+    "formOrEventName": "Charizard Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pikachu",
+      "charizard hat"
+    ],
+    "spriteSignatureHex": "FF9500_CHARHAT"
+  },
+  {
+    "variantId": "0025_pikachu_clone",
+    "pokedexNumber": 25,
+    "speciesName": "Pikachu",
+    "formOrEventName": "Clone",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "pikachu",
+      "clone"
+    ],
+    "spriteSignatureHex": "FFD60A_CLONE"
+  },
+  {
+    "variantId": "0025_pikachu_detective_hat",
+    "pokedexNumber": 25,
+    "speciesName": "Pikachu",
+    "formOrEventName": "Detective Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pikachu",
+      "detective"
+    ],
+    "spriteSignatureHex": "A2845E_DETECTIVE"
+  },
+  {
+    "variantId": "0025_pikachu_flower_crown",
+    "pokedexNumber": 25,
+    "speciesName": "Pikachu",
+    "formOrEventName": "Flower Crown",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pikachu",
+      "flower crown"
+    ],
+    "spriteSignatureHex": "FF9500_FLOWER"
+  },
+  {
+    "variantId": "0025_pikachu_flying_balloons",
+    "pokedexNumber": 25,
+    "speciesName": "Pikachu",
+    "formOrEventName": "Flying Balloons",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pikachu",
+      "flying",
+      "balloon"
+    ],
+    "spriteSignatureHex": "5AC8FA_BALLOON"
+  },
+  {
+    "variantId": "0025_pikachu_lucario_hat",
+    "pokedexNumber": 25,
+    "speciesName": "Pikachu",
+    "formOrEventName": "Lucario Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pikachu",
+      "lucario hat"
+    ],
+    "spriteSignatureHex": "007AFF_LUCHAT"
+  },
+  {
+    "variantId": "0025_pikachu_party_hat",
+    "pokedexNumber": 25,
+    "speciesName": "Pikachu",
+    "formOrEventName": "Party Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pikachu",
+      "party hat"
+    ],
+    "spriteSignatureHex": "FF3B30_PARTY"
+  },
+  {
+    "variantId": "0025_pikachu_pikachu_libre",
+    "pokedexNumber": 25,
+    "speciesName": "Pikachu",
+    "formOrEventName": "Pikachu Libre",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pikachu",
+      "pikachu libre",
+      "libre"
+    ],
+    "spriteSignatureHex": "FF2D55_LIBRE"
+  },
+  {
+    "variantId": "0025_pikachu_pop_star",
+    "pokedexNumber": 25,
+    "speciesName": "Pikachu",
+    "formOrEventName": "Pop Star",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "pikachu",
+      "pop star"
+    ],
+    "spriteSignatureHex": "FF2D55_POPSTAR"
+  },
+  {
+    "variantId": "0025_pikachu_quartz_crown",
+    "pokedexNumber": 25,
+    "speciesName": "Pikachu",
+    "formOrEventName": "Quartz Crown",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pikachu",
+      "quartz crown",
+      "go fest crown"
+    ],
+    "spriteSignatureHex": "AF52DE_CROWN"
+  },
+  {
+    "variantId": "0025_pikachu_rayquaza_hat",
+    "pokedexNumber": 25,
+    "speciesName": "Pikachu",
+    "formOrEventName": "Rayquaza Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pikachu",
+      "rayquaza hat"
+    ],
+    "spriteSignatureHex": "34C759_RAYHAT"
+  },
+  {
+    "variantId": "0025_pikachu_rock_star",
+    "pokedexNumber": 25,
+    "speciesName": "Pikachu",
+    "formOrEventName": "Rock Star",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "pikachu",
+      "rock star"
+    ],
+    "spriteSignatureHex": "5856D6_ROCKSTAR"
+  },
+  {
+    "variantId": "0025_pikachu_santa_hat",
+    "pokedexNumber": 25,
+    "speciesName": "Pikachu",
+    "formOrEventName": "Santa Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pikachu",
+      "santa hat",
+      "holiday"
+    ],
+    "spriteSignatureHex": "FF3B30_SANTA"
+  },
+  {
+    "variantId": "0025_pikachu_witch_hat",
+    "pokedexNumber": 25,
+    "speciesName": "Pikachu",
+    "formOrEventName": "Witch Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pikachu",
+      "witch hat",
+      "halloween"
+    ],
+    "spriteSignatureHex": "5856D6_WITCH"
+  },
+  {
+    "variantId": "0026_raichu_base",
+    "pokedexNumber": 26,
+    "speciesName": "Raichu",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "raichu"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0027_sandshrew_base",
+    "pokedexNumber": 27,
+    "speciesName": "Sandshrew",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "sandshrew"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0028_sandslash_base",
+    "pokedexNumber": 28,
+    "speciesName": "Sandslash",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "sandslash"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0029_nidoran_f_base",
+    "pokedexNumber": 29,
+    "speciesName": "Nidoran♀",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "nidoran♀"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0030_nidorina_base",
+    "pokedexNumber": 30,
+    "speciesName": "Nidorina",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "nidorina"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0031_nidoqueen_base",
+    "pokedexNumber": 31,
+    "speciesName": "Nidoqueen",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "nidoqueen"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0032_nidoran_m_base",
+    "pokedexNumber": 32,
+    "speciesName": "Nidoran♂",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "nidoran♂"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0033_nidorino_base",
+    "pokedexNumber": 33,
+    "speciesName": "Nidorino",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "nidorino"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0034_nidoking_base",
+    "pokedexNumber": 34,
+    "speciesName": "Nidoking",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "nidoking"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0035_clefairy_base",
+    "pokedexNumber": 35,
+    "speciesName": "Clefairy",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "clefairy"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0036_clefable_base",
+    "pokedexNumber": 36,
+    "speciesName": "Clefable",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "clefable"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0037_vulpix_base",
+    "pokedexNumber": 37,
+    "speciesName": "Vulpix",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "vulpix"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0037_vulpix_holiday_coat",
+    "pokedexNumber": 37,
+    "speciesName": "Vulpix",
+    "formOrEventName": "Holiday Coat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "vulpix",
+      "holiday",
+      "halloween"
+    ],
+    "spriteSignatureHex": "FF9500_COAT"
+  },
+  {
+    "variantId": "0038_ninetales_base",
+    "pokedexNumber": 38,
+    "speciesName": "Ninetales",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "ninetales"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0039_jigglypuff_base",
+    "pokedexNumber": 39,
+    "speciesName": "Jigglypuff",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "jigglypuff"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0039_jigglypuff_holiday_ribbon",
+    "pokedexNumber": 39,
+    "speciesName": "Jigglypuff",
+    "formOrEventName": "Holiday Ribbon",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "jigglypuff",
+      "ribbon",
+      "bow"
+    ],
+    "spriteSignatureHex": "FF2D55_RIBBON"
+  },
+  {
+    "variantId": "0040_wigglytuff_base",
+    "pokedexNumber": 40,
+    "speciesName": "Wigglytuff",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "wigglytuff"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0041_zubat_base",
+    "pokedexNumber": 41,
+    "speciesName": "Zubat",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "zubat"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0042_golbat_base",
+    "pokedexNumber": 42,
+    "speciesName": "Golbat",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "golbat"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0043_oddish_base",
+    "pokedexNumber": 43,
+    "speciesName": "Oddish",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "oddish"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0044_gloom_base",
+    "pokedexNumber": 44,
+    "speciesName": "Gloom",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "gloom"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0045_vileplume_base",
+    "pokedexNumber": 45,
+    "speciesName": "Vileplume",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "vileplume"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0046_paras_base",
+    "pokedexNumber": 46,
+    "speciesName": "Paras",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "paras"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0047_parasect_base",
+    "pokedexNumber": 47,
+    "speciesName": "Parasect",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "parasect"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0048_venonat_base",
+    "pokedexNumber": 48,
+    "speciesName": "Venonat",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "venonat"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0049_venomoth_base",
+    "pokedexNumber": 49,
+    "speciesName": "Venomoth",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "venomoth"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0050_diglett_base",
+    "pokedexNumber": 50,
+    "speciesName": "Diglett",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "diglett"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0050_diglett_fashion_hat",
+    "pokedexNumber": 50,
+    "speciesName": "Diglett",
+    "formOrEventName": "Fashion Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "diglett",
+      "fashion",
+      "bowler hat"
+    ],
+    "spriteSignatureHex": "1C1C1E_HAT"
+  },
+  {
+    "variantId": "0051_dugtrio_base",
+    "pokedexNumber": 51,
+    "speciesName": "Dugtrio",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "dugtrio"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0052_meowth_base",
+    "pokedexNumber": 52,
+    "speciesName": "Meowth",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "meowth"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0053_persian_base",
+    "pokedexNumber": 53,
+    "speciesName": "Persian",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "persian"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0054_psyduck_base",
+    "pokedexNumber": 54,
+    "speciesName": "Psyduck",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "psyduck"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0054_psyduck_holiday_scarf",
+    "pokedexNumber": 54,
+    "speciesName": "Psyduck",
+    "formOrEventName": "Holiday Scarf",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "psyduck",
+      "holiday",
+      "scarf"
+    ],
+    "spriteSignatureHex": "FF3B30_SCARF"
+  },
+  {
+    "variantId": "0055_golduck_base",
+    "pokedexNumber": 55,
+    "speciesName": "Golduck",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "golduck"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0056_mankey_base",
+    "pokedexNumber": 56,
+    "speciesName": "Mankey",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "mankey"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0057_primeape_base",
+    "pokedexNumber": 57,
+    "speciesName": "Primeape",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "primeape"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0058_growlithe_base",
+    "pokedexNumber": 58,
+    "speciesName": "Growlithe",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "growlithe"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0059_arcanine_base",
+    "pokedexNumber": 59,
+    "speciesName": "Arcanine",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "arcanine"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0060_poliwag_base",
+    "pokedexNumber": 60,
+    "speciesName": "Poliwag",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "poliwag"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0061_poliwhirl_base",
+    "pokedexNumber": 61,
+    "speciesName": "Poliwhirl",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "poliwhirl"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0062_poliwrath_base",
+    "pokedexNumber": 62,
+    "speciesName": "Poliwrath",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "poliwrath"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0063_abra_base",
+    "pokedexNumber": 63,
+    "speciesName": "Abra",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "abra"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0064_kadabra_base",
+    "pokedexNumber": 64,
+    "speciesName": "Kadabra",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "kadabra"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0065_alakazam_base",
+    "pokedexNumber": 65,
+    "speciesName": "Alakazam",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "alakazam"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0066_machop_base",
+    "pokedexNumber": 66,
+    "speciesName": "Machop",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "machop"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0067_machoke_base",
+    "pokedexNumber": 67,
+    "speciesName": "Machoke",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "machoke"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0068_machamp_base",
+    "pokedexNumber": 68,
+    "speciesName": "Machamp",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "machamp"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0069_bellsprout_base",
+    "pokedexNumber": 69,
+    "speciesName": "Bellsprout",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "bellsprout"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0070_weepinbell_base",
+    "pokedexNumber": 70,
+    "speciesName": "Weepinbell",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "weepinbell"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0071_victreebel_base",
+    "pokedexNumber": 71,
+    "speciesName": "Victreebel",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "victreebel"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0072_tentacool_base",
+    "pokedexNumber": 72,
+    "speciesName": "Tentacool",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "tentacool"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0073_tentacruel_base",
+    "pokedexNumber": 73,
+    "speciesName": "Tentacruel",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "tentacruel"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0074_geodude_base",
+    "pokedexNumber": 74,
+    "speciesName": "Geodude",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "geodude"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0075_graveler_base",
+    "pokedexNumber": 75,
+    "speciesName": "Graveler",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "graveler"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0076_golem_base",
+    "pokedexNumber": 76,
+    "speciesName": "Golem",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "golem"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0077_ponyta_base",
+    "pokedexNumber": 77,
+    "speciesName": "Ponyta",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "ponyta"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0077_ponyta_meloetta_hat",
+    "pokedexNumber": 77,
+    "speciesName": "Ponyta",
+    "formOrEventName": "Meloetta Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "ponyta",
+      "meloetta hat"
+    ],
+    "spriteSignatureHex": "30B0C7_MELO"
+  },
+  {
+    "variantId": "0078_rapidash_base",
+    "pokedexNumber": 78,
+    "speciesName": "Rapidash",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "rapidash"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0079_slowpoke_base",
+    "pokedexNumber": 79,
+    "speciesName": "Slowpoke",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "slowpoke"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0079_slowpoke_2020_glasses",
+    "pokedexNumber": 79,
+    "speciesName": "Slowpoke",
+    "formOrEventName": "2020 Glasses",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "slowpoke",
+      "2020 glasses",
+      "new year"
+    ],
+    "spriteSignatureHex": "FFD60A_2020"
+  },
+  {
+    "variantId": "0080_slowbro_base",
+    "pokedexNumber": 80,
+    "speciesName": "Slowbro",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "slowbro"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0080_slowbro_2021_glasses",
+    "pokedexNumber": 80,
+    "speciesName": "Slowbro",
+    "formOrEventName": "2021 Glasses",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "slowbro",
+      "2021 glasses",
+      "new year"
+    ],
+    "spriteSignatureHex": "FFD60A_2021"
+  },
+  {
+    "variantId": "0081_magnemite_base",
+    "pokedexNumber": 81,
+    "speciesName": "Magnemite",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "magnemite"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0082_magneton_base",
+    "pokedexNumber": 82,
+    "speciesName": "Magneton",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "magneton"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0083_farfetchd_base",
+    "pokedexNumber": 83,
+    "speciesName": "Farfetch'd",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "farfetch'd"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0084_doduo_base",
+    "pokedexNumber": 84,
+    "speciesName": "Doduo",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "doduo"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0085_dodrio_base",
+    "pokedexNumber": 85,
+    "speciesName": "Dodrio",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "dodrio"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0086_seel_base",
+    "pokedexNumber": 86,
+    "speciesName": "Seel",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "seel"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0087_dewgong_base",
+    "pokedexNumber": 87,
+    "speciesName": "Dewgong",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "dewgong"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0088_grimer_base",
+    "pokedexNumber": 88,
+    "speciesName": "Grimer",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "grimer"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0089_muk_base",
+    "pokedexNumber": 89,
+    "speciesName": "Muk",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "muk"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0090_shellder_base",
+    "pokedexNumber": 90,
+    "speciesName": "Shellder",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "shellder"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0091_cloyster_base",
+    "pokedexNumber": 91,
+    "speciesName": "Cloyster",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "cloyster"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0092_gastly_base",
+    "pokedexNumber": 92,
+    "speciesName": "Gastly",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "gastly"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0093_haunter_base",
+    "pokedexNumber": 93,
+    "speciesName": "Haunter",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "haunter"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0094_gengar_base",
+    "pokedexNumber": 94,
+    "speciesName": "Gengar",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "gengar"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0094_gengar_mega_banette_costume",
+    "pokedexNumber": 94,
+    "speciesName": "Gengar",
+    "formOrEventName": "Mega Banette Costume",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "gengar",
+      "banette",
+      "halloween"
+    ],
+    "spriteSignatureHex": "5856D6_BANETTE"
+  },
+  {
+    "variantId": "0094_gengar_party_hat",
+    "pokedexNumber": 94,
+    "speciesName": "Gengar",
+    "formOrEventName": "Party Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "gengar",
+      "party hat"
+    ],
+    "spriteSignatureHex": "FF3B30_PARTY"
+  },
+  {
+    "variantId": "0095_onix_base",
+    "pokedexNumber": 95,
+    "speciesName": "Onix",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "onix"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0096_drowzee_base",
+    "pokedexNumber": 96,
+    "speciesName": "Drowzee",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "drowzee"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0097_hypno_base",
+    "pokedexNumber": 97,
+    "speciesName": "Hypno",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "hypno"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0098_krabby_base",
+    "pokedexNumber": 98,
+    "speciesName": "Krabby",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "krabby"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0099_kingler_base",
+    "pokedexNumber": 99,
+    "speciesName": "Kingler",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "kingler"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0100_voltorb_base",
+    "pokedexNumber": 100,
+    "speciesName": "Voltorb",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "voltorb"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0101_electrode_base",
+    "pokedexNumber": 101,
+    "speciesName": "Electrode",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "electrode"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0102_exeggcute_base",
+    "pokedexNumber": 102,
+    "speciesName": "Exeggcute",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "exeggcute"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0103_exeggutor_base",
+    "pokedexNumber": 103,
+    "speciesName": "Exeggutor",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "exeggutor"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0104_cubone_base",
+    "pokedexNumber": 104,
+    "speciesName": "Cubone",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "cubone"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0105_marowak_base",
+    "pokedexNumber": 105,
+    "speciesName": "Marowak",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "marowak"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0106_hitmonlee_base",
+    "pokedexNumber": 106,
+    "speciesName": "Hitmonlee",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "hitmonlee"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0107_hitmonchan_base",
+    "pokedexNumber": 107,
+    "speciesName": "Hitmonchan",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "hitmonchan"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0108_lickitung_base",
+    "pokedexNumber": 108,
+    "speciesName": "Lickitung",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "lickitung"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0109_koffing_base",
+    "pokedexNumber": 109,
+    "speciesName": "Koffing",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "koffing"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0110_weezing_base",
+    "pokedexNumber": 110,
+    "speciesName": "Weezing",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "weezing"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0111_rhyhorn_base",
+    "pokedexNumber": 111,
+    "speciesName": "Rhyhorn",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "rhyhorn"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0112_rhydon_base",
+    "pokedexNumber": 112,
+    "speciesName": "Rhydon",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "rhydon"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0113_chansey_base",
+    "pokedexNumber": 113,
+    "speciesName": "Chansey",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "chansey"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0113_chansey_flower_crown",
+    "pokedexNumber": 113,
+    "speciesName": "Chansey",
+    "formOrEventName": "Flower Crown",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "chansey",
+      "flower crown"
+    ],
+    "spriteSignatureHex": "FF9500_FLOWER"
+  },
+  {
+    "variantId": "0114_tangela_base",
+    "pokedexNumber": 114,
+    "speciesName": "Tangela",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "tangela"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0115_kangaskhan_base",
+    "pokedexNumber": 115,
+    "speciesName": "Kangaskhan",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "kangaskhan"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0116_horsea_base",
+    "pokedexNumber": 116,
+    "speciesName": "Horsea",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "horsea"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0117_seadra_base",
+    "pokedexNumber": 117,
+    "speciesName": "Seadra",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "seadra"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0118_goldeen_base",
+    "pokedexNumber": 118,
+    "speciesName": "Goldeen",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "goldeen"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0119_seaking_base",
+    "pokedexNumber": 119,
+    "speciesName": "Seaking",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "seaking"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0120_staryu_base",
+    "pokedexNumber": 120,
+    "speciesName": "Staryu",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "staryu"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0121_starmie_base",
+    "pokedexNumber": 121,
+    "speciesName": "Starmie",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "starmie"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0122_mr_mime_base",
+    "pokedexNumber": 122,
+    "speciesName": "Mr. Mime",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "mr. mime"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0123_scyther_base",
+    "pokedexNumber": 123,
+    "speciesName": "Scyther",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "scyther"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0124_jynx_base",
+    "pokedexNumber": 124,
+    "speciesName": "Jynx",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "jynx"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0125_electabuzz_base",
+    "pokedexNumber": 125,
+    "speciesName": "Electabuzz",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "electabuzz"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0126_magmar_base",
+    "pokedexNumber": 126,
+    "speciesName": "Magmar",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "magmar"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0127_pinsir_base",
+    "pokedexNumber": 127,
+    "speciesName": "Pinsir",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pinsir"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0128_tauros_base",
+    "pokedexNumber": 128,
+    "speciesName": "Tauros",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "tauros"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0129_magikarp_base",
+    "pokedexNumber": 129,
+    "speciesName": "Magikarp",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "magikarp"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0130_gyarados_base",
+    "pokedexNumber": 130,
+    "speciesName": "Gyarados",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "gyarados"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0131_lapras_base",
+    "pokedexNumber": 131,
+    "speciesName": "Lapras",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "lapras"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0131_lapras_blanche_scarf",
+    "pokedexNumber": 131,
+    "speciesName": "Lapras",
+    "formOrEventName": "Blanche Scarf",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "lapras",
+      "blanche",
+      "scarf"
+    ],
+    "spriteSignatureHex": "007AFF_SCARF"
+  },
+  {
+    "variantId": "0132_ditto_base",
+    "pokedexNumber": 132,
+    "speciesName": "Ditto",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "ditto"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0133_eevee_base",
+    "pokedexNumber": 133,
+    "speciesName": "Eevee",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "eevee"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0133_eevee_flower_crown",
+    "pokedexNumber": 133,
+    "speciesName": "Eevee",
+    "formOrEventName": "Flower Crown",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "eevee",
+      "flower crown"
+    ],
+    "spriteSignatureHex": "FF9500_FLOWER"
+  },
+  {
+    "variantId": "0133_eevee_holiday_hat",
+    "pokedexNumber": 133,
+    "speciesName": "Eevee",
+    "formOrEventName": "Holiday Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "eevee",
+      "holiday hat"
+    ],
+    "spriteSignatureHex": "FF3B30_HOLIDAY"
+  },
+  {
+    "variantId": "0133_eevee_party_hat",
+    "pokedexNumber": 133,
+    "speciesName": "Eevee",
+    "formOrEventName": "Party Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "eevee",
+      "party hat"
+    ],
+    "spriteSignatureHex": "FF3B30_PARTY"
+  },
+  {
+    "variantId": "0134_vaporeon_base",
+    "pokedexNumber": 134,
+    "speciesName": "Vaporeon",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "vaporeon"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0135_jolteon_base",
+    "pokedexNumber": 135,
+    "speciesName": "Jolteon",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "jolteon"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0136_flareon_base",
+    "pokedexNumber": 136,
+    "speciesName": "Flareon",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "flareon"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0137_porygon_base",
+    "pokedexNumber": 137,
+    "speciesName": "Porygon",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "porygon"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0138_omanyte_base",
+    "pokedexNumber": 138,
+    "speciesName": "Omanyte",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "omanyte"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0139_omastar_base",
+    "pokedexNumber": 139,
+    "speciesName": "Omastar",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "omastar"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0140_kabuto_base",
+    "pokedexNumber": 140,
+    "speciesName": "Kabuto",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "kabuto"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0141_kabutops_base",
+    "pokedexNumber": 141,
+    "speciesName": "Kabutops",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "kabutops"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0142_aerodactyl_base",
+    "pokedexNumber": 142,
+    "speciesName": "Aerodactyl",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "aerodactyl"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0143_snorlax_base",
+    "pokedexNumber": 143,
+    "speciesName": "Snorlax",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "snorlax"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0143_snorlax_cowboy_hat",
+    "pokedexNumber": 143,
+    "speciesName": "Snorlax",
+    "formOrEventName": "Cowboy Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "snorlax",
+      "cowboy hat"
+    ],
+    "spriteSignatureHex": "A2845E_COWBOY"
+  },
+  {
+    "variantId": "0143_snorlax_leather_jacket",
+    "pokedexNumber": 143,
+    "speciesName": "Snorlax",
+    "formOrEventName": "Leather Jacket",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "snorlax",
+      "leather jacket",
+      "studded"
+    ],
+    "spriteSignatureHex": "1C1C1E_JACKET"
+  },
+  {
+    "variantId": "0143_snorlax_nightcap",
+    "pokedexNumber": 143,
+    "speciesName": "Snorlax",
+    "formOrEventName": "Nightcap",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "snorlax",
+      "nightcap",
+      "sleepy"
+    ],
+    "spriteSignatureHex": "5AC8FA_NIGHTCAP"
+  },
+  {
+    "variantId": "0144_articuno_base",
+    "pokedexNumber": 144,
+    "speciesName": "Articuno",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "articuno"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0145_zapdos_base",
+    "pokedexNumber": 145,
+    "speciesName": "Zapdos",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "zapdos"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0146_moltres_base",
+    "pokedexNumber": 146,
+    "speciesName": "Moltres",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "moltres"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0147_dratini_base",
+    "pokedexNumber": 147,
+    "speciesName": "Dratini",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "dratini"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0148_dragonair_base",
+    "pokedexNumber": 148,
+    "speciesName": "Dragonair",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "dragonair"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0149_dragonite_base",
+    "pokedexNumber": 149,
+    "speciesName": "Dragonite",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "dragonite"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0149_dragonite_fashion_week_bow",
+    "pokedexNumber": 149,
+    "speciesName": "Dragonite",
+    "formOrEventName": "Fashion Week Bow",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "dragonite",
+      "fashion",
+      "bow",
+      "sunglasses"
+    ],
+    "spriteSignatureHex": "1C1C1E_FASHION"
+  },
+  {
+    "variantId": "0150_mewtwo_base",
+    "pokedexNumber": 150,
+    "speciesName": "Mewtwo",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "mewtwo"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0150_mewtwo_armored",
+    "pokedexNumber": 150,
+    "speciesName": "Mewtwo",
+    "formOrEventName": "Armored",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "mewtwo",
+      "armored",
+      "armor"
+    ],
+    "spriteSignatureHex": "8E8E93_ARMORED"
+  },
+  {
+    "variantId": "0151_mew_base",
+    "pokedexNumber": 151,
+    "speciesName": "Mew",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "mew"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0172_pichu_base",
+    "pokedexNumber": 172,
+    "speciesName": "Pichu",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pichu"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0172_pichu_party_hat",
+    "pokedexNumber": 172,
+    "speciesName": "Pichu",
+    "formOrEventName": "Party Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "pichu",
+      "party hat"
+    ],
+    "spriteSignatureHex": "FF3B30_PARTY"
+  },
+  {
+    "variantId": "0175_togepi_base",
+    "pokedexNumber": 175,
+    "speciesName": "Togepi",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "togepi"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0175_togepi_flower_crown",
+    "pokedexNumber": 175,
+    "speciesName": "Togepi",
+    "formOrEventName": "Flower Crown",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "togepi",
+      "flower crown"
+    ],
+    "spriteSignatureHex": "FF9500_FLOWER"
+  },
+  {
+    "variantId": "0196_espeon_base",
+    "pokedexNumber": 196,
+    "speciesName": "Espeon",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "espeon"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0197_umbreon_base",
+    "pokedexNumber": 197,
+    "speciesName": "Umbreon",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "umbreon"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0246_larvitar_base",
+    "pokedexNumber": 246,
+    "speciesName": "Larvitar",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "larvitar"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0248_tyranitar_base",
+    "pokedexNumber": 248,
+    "speciesName": "Tyranitar",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "tyranitar"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0249_lugia_base",
+    "pokedexNumber": 249,
+    "speciesName": "Lugia",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "lugia"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0249_lugia_apex",
+    "pokedexNumber": 249,
+    "speciesName": "Lugia",
+    "formOrEventName": "Apex",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "lugia",
+      "apex"
+    ],
+    "spriteSignatureHex": "5856D6_APEX"
+  },
+  {
+    "variantId": "0250_ho_oh_base",
+    "pokedexNumber": 250,
+    "speciesName": "Ho-Oh",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "ho-oh"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0250_ho_oh_apex",
+    "pokedexNumber": 250,
+    "speciesName": "Ho-Oh",
+    "formOrEventName": "Apex",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "ho-oh",
+      "apex"
+    ],
+    "spriteSignatureHex": "FF9500_APEX"
+  },
+  {
+    "variantId": "0251_celebi_base",
+    "pokedexNumber": 251,
+    "speciesName": "Celebi",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "celebi"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0252_treecko_base",
+    "pokedexNumber": 252,
+    "speciesName": "Treecko",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "treecko"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0255_torchic_base",
+    "pokedexNumber": 255,
+    "speciesName": "Torchic",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "torchic"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0258_mudkip_base",
+    "pokedexNumber": 258,
+    "speciesName": "Mudkip",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "mudkip"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0280_ralts_base",
+    "pokedexNumber": 280,
+    "speciesName": "Ralts",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "ralts"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0281_kirlia_fashion_hat",
+    "pokedexNumber": 281,
+    "speciesName": "Kirlia",
+    "formOrEventName": "Fashion Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "kirlia",
+      "fashion",
+      "top hat"
+    ],
+    "spriteSignatureHex": "1C1C1E_TOPHAT"
+  },
+  {
+    "variantId": "0282_gardevoir_base",
+    "pokedexNumber": 282,
+    "speciesName": "Gardevoir",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "gardevoir"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0302_sableye_litwick_hat",
+    "pokedexNumber": 302,
+    "speciesName": "Sableye",
+    "formOrEventName": "Litwick Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "sableye",
+      "litwick hat"
+    ],
+    "spriteSignatureHex": "AF52DE_LITWICK"
+  },
+  {
+    "variantId": "0359_absol_sunglasses",
+    "pokedexNumber": 359,
+    "speciesName": "Absol",
+    "formOrEventName": "Sunglasses",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "absol",
+      "sunglasses"
+    ],
+    "spriteSignatureHex": "1C1C1E_SHADES"
+  },
+  {
+    "variantId": "0374_beldum_base",
+    "pokedexNumber": 374,
+    "speciesName": "Beldum",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "beldum"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0376_metagross_base",
+    "pokedexNumber": 376,
+    "speciesName": "Metagross",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "metagross"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0382_kyogre_base",
+    "pokedexNumber": 382,
+    "speciesName": "Kyogre",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "kyogre"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0383_groudon_base",
+    "pokedexNumber": 383,
+    "speciesName": "Groudon",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "groudon"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0384_rayquaza_base",
+    "pokedexNumber": 384,
+    "speciesName": "Rayquaza",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "rayquaza"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0385_jirachi_base",
+    "pokedexNumber": 385,
+    "speciesName": "Jirachi",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "jirachi"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0403_shinx_top_hat",
+    "pokedexNumber": 403,
+    "speciesName": "Shinx",
+    "formOrEventName": "Top Hat",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "shinx",
+      "top hat",
+      "fashion"
+    ],
+    "spriteSignatureHex": "1C1C1E_TOPHAT"
+  },
+  {
+    "variantId": "0443_gible_base",
+    "pokedexNumber": 443,
+    "speciesName": "Gible",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "gible"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0445_garchomp_base",
+    "pokedexNumber": 445,
+    "speciesName": "Garchomp",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "garchomp"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0447_riolu_base",
+    "pokedexNumber": 447,
+    "speciesName": "Riolu",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "riolu"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0448_lucario_base",
+    "pokedexNumber": 448,
+    "speciesName": "Lucario",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "lucario"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0453_croagunk_backward_cap",
+    "pokedexNumber": 453,
+    "speciesName": "Croagunk",
+    "formOrEventName": "Backward Cap",
+    "isEventVariant": true,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "croagunk",
+      "backward cap",
+      "fashion"
+    ],
+    "spriteSignatureHex": "1C1C1E_CAP"
+  },
+  {
+    "variantId": "0483_dialga_base",
+    "pokedexNumber": 483,
+    "speciesName": "Dialga",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "dialga"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0483_dialga_origin_forme",
+    "pokedexNumber": 483,
+    "speciesName": "Dialga",
+    "formOrEventName": "Origin Forme",
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "dialga",
+      "origin forme"
+    ],
+    "spriteSignatureHex": "007AFF_ORIGIN"
+  },
+  {
+    "variantId": "0484_palkia_base",
+    "pokedexNumber": 484,
+    "speciesName": "Palkia",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "palkia"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0484_palkia_origin_forme",
+    "pokedexNumber": 484,
+    "speciesName": "Palkia",
+    "formOrEventName": "Origin Forme",
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "palkia",
+      "origin forme"
+    ],
+    "spriteSignatureHex": "AF52DE_ORIGIN"
+  },
+  {
+    "variantId": "0487_giratina_altered_forme",
+    "pokedexNumber": 487,
+    "speciesName": "Giratina",
+    "formOrEventName": "Altered Forme",
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "giratina",
+      "altered"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0487_giratina_origin_forme",
+    "pokedexNumber": 487,
+    "speciesName": "Giratina",
+    "formOrEventName": "Origin Forme",
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "giratina",
+      "origin"
+    ],
+    "spriteSignatureHex": "1C1C1E_ORIGIN"
+  },
+  {
+    "variantId": "0491_darkrai_base",
+    "pokedexNumber": 491,
+    "speciesName": "Darkrai",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "darkrai"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0494_victini_base",
+    "pokedexNumber": 494,
+    "speciesName": "Victini",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "victini"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0643_reshiram_base",
+    "pokedexNumber": 643,
+    "speciesName": "Reshiram",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "reshiram"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0644_zekrom_base",
+    "pokedexNumber": 644,
+    "speciesName": "Zekrom",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "zekrom"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0646_kyurem_base",
+    "pokedexNumber": 646,
+    "speciesName": "Kyurem",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "kyurem"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0647_keldeo_ordinary_form",
+    "pokedexNumber": 647,
+    "speciesName": "Keldeo",
+    "formOrEventName": "Ordinary Form",
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "keldeo",
+      "ordinary"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0648_meloetta_aria_forme",
+    "pokedexNumber": 648,
+    "speciesName": "Meloetta",
+    "formOrEventName": "Aria Forme",
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "meloetta",
+      "aria"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0658_greninja_base",
+    "pokedexNumber": 658,
+    "speciesName": "Greninja",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "greninja"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0700_sylveon_base",
+    "pokedexNumber": 700,
+    "speciesName": "Sylveon",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "sylveon"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0716_xerneas_base",
+    "pokedexNumber": 716,
+    "speciesName": "Xerneas",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "xerneas"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0717_yveltal_base",
+    "pokedexNumber": 717,
+    "speciesName": "Yveltal",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "yveltal"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0718_zygarde_50%_forme",
+    "pokedexNumber": 718,
+    "speciesName": "Zygarde",
+    "formOrEventName": "50% Forme",
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "zygarde"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0719_diancie_base",
+    "pokedexNumber": 719,
+    "speciesName": "Diancie",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "diancie"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0720_hoopa_confined",
+    "pokedexNumber": 720,
+    "speciesName": "Hoopa",
+    "formOrEventName": "Confined",
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "hoopa",
+      "confined"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0720_hoopa_unbound",
+    "pokedexNumber": 720,
+    "speciesName": "Hoopa",
+    "formOrEventName": "Unbound",
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "hoopa",
+      "unbound"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0721_volcanion_base",
+    "pokedexNumber": 721,
+    "speciesName": "Volcanion",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "volcanion"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0789_cosmog_base",
+    "pokedexNumber": 789,
+    "speciesName": "Cosmog",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "cosmog"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0790_cosmoem_base",
+    "pokedexNumber": 790,
+    "speciesName": "Cosmoem",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "cosmoem"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0791_solgaleo_base",
+    "pokedexNumber": 791,
+    "speciesName": "Solgaleo",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "solgaleo"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0792_lunala_base",
+    "pokedexNumber": 792,
+    "speciesName": "Lunala",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "lunala"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0800_necrozma_dusk_mane",
+    "pokedexNumber": 800,
+    "speciesName": "Necrozma",
+    "formOrEventName": "Dusk Mane",
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "necrozma",
+      "dusk mane"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0801_magearna_base",
+    "pokedexNumber": 801,
+    "speciesName": "Magearna",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "magearna"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0802_marshadow_base",
+    "pokedexNumber": 802,
+    "speciesName": "Marshadow",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "marshadow"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0888_zacian_hero_of_many_battles",
+    "pokedexNumber": 888,
+    "speciesName": "Zacian",
+    "formOrEventName": "Hero of Many Battles",
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "zacian"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0889_zamazenta_hero_of_many_battles",
+    "pokedexNumber": 889,
+    "speciesName": "Zamazenta",
+    "formOrEventName": "Hero of Many Battles",
+    "isEventVariant": false,
+    "isShinyAvailableInGame": true,
+    "ocrKeywords": [
+      "zamazenta"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0891_kubfu_base",
+    "pokedexNumber": 891,
+    "speciesName": "Kubfu",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "kubfu"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0892_urshifu_single_strike_style",
+    "pokedexNumber": 892,
+    "speciesName": "Urshifu",
+    "formOrEventName": "Single Strike Style",
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "urshifu",
+      "single strike"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0893_zarude_base",
+    "pokedexNumber": 893,
+    "speciesName": "Zarude",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "zarude"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0905_enamorus_incarnate_forme",
+    "pokedexNumber": 905,
+    "speciesName": "Enamorus",
+    "formOrEventName": "Incarnate Forme",
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "enamorus"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0906_sprigatito_base",
+    "pokedexNumber": 906,
+    "speciesName": "Sprigatito",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "sprigatito"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0909_fuecoco_base",
+    "pokedexNumber": 909,
+    "speciesName": "Fuecoco",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "fuecoco"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0912_quaxly_base",
+    "pokedexNumber": 912,
+    "speciesName": "Quaxly",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "quaxly"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "0999_gimmighoul_roaming_form",
+    "pokedexNumber": 999,
+    "speciesName": "Gimmighoul",
+    "formOrEventName": "Roaming Form",
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "gimmighoul",
+      "roaming"
+    ],
+    "spriteSignatureHex": null
+  },
+  {
+    "variantId": "1000_gholdengo_base",
+    "pokedexNumber": 1000,
+    "speciesName": "Gholdengo",
+    "formOrEventName": null,
+    "isEventVariant": false,
+    "isShinyAvailableInGame": false,
+    "ocrKeywords": [
+      "gholdengo"
+    ],
+    "spriteSignatureHex": null
+  }
+]
